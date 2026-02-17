@@ -123,3 +123,7 @@ footer {
 .instagram {
     background: linear-gradient(45deg, #f58529, #dd2a7b, #8134af, #515bd4);
 }
+
+.bg-hero {
+    background: linear-gradient(135deg, #0d1117, #1f2937);
+}
